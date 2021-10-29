@@ -27,7 +27,6 @@
   </a>
 </div>
 <br />
-<br />
 
 ## Description
 
